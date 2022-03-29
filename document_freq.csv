@@ -5178,7 +5178,6 @@
 "('fvac', 'GME')",8
 "('fvrr', 'GME')",15
 "('fyi', 'GME')",16
-"('g', 'GME')",15
 "('g-fuel', 'GME')",1
 "('ga', 'GME')",9
 "('gaap', 'GME')",14
@@ -5610,7 +5609,6 @@
 "('gs', 'GME')",16
 "('gs2c', 'GME')",1
 "('gsm', 'GME')",6
-"('gt', 'GME')",16
 "('gta', 'GME')",7
 "('gtaiv', 'GME')",4
 "('gtc', 'GME')",6
@@ -6906,7 +6904,6 @@
 "('kurt', 'GME')",2
 "('kurtis', 'GME')",1
 "('kwanza', 'GME')",2
-"('l', 'GME')",16
 "('la', 'GME')",15
 "('laaaaaaaaaaaaaaaaaaaaaaaaaaawwwwwwwwwwwwwddddddd', 'GME')",1
 "('lab', 'GME')",14
@@ -7337,7 +7334,6 @@
 "('lrcx', 'GME')",13
 "('lrgr', 'GME')",2
 "('lrnz', 'GME')",1
-"('lt', 'GME')",16
 "('ltcm', 'GME')",2
 "('ltd', 'GME')",14
 "('lube', 'GME')",14
@@ -23611,7 +23607,6 @@
 "('fy', 'TSLA')",12
 "('fy2q', 'TSLA')",3
 "('fyi', 'TSLA')",16
-"('g', 'TSLA')",15
 "('g-pa', 'TSLA')",1
 "('g-string', 'TSLA')",4
 "('g0000o', 'TSLA')",2
@@ -24327,7 +24322,6 @@
 "('gsr', 'TSLA')",3
 "('gsum', 'TSLA')",3
 "('gsx', 'TSLA')",15
-"('gt', 'TSLA')",16
 "('gta', 'TSLA')",7
 "('gtbif', 'TSLA')",2
 "('gtc', 'TSLA')",6
@@ -26830,7 +26824,6 @@
 "('kyle', 'TSLA')",11
 "('kylie', 'TSLA')",6
 "('kyvyatsingrad', 'TSLA')",4
-"('l', 'TSLA')",16
 "('l-fap', 'TSLA')",2
 "('l-shaped', 'TSLA')",5
 "('la', 'TSLA')",15
@@ -27579,7 +27572,6 @@
 "('lsd', 'TSLA')",6
 "('lse', 'TSLA')",6
 "('lstochrsi', 'TSLA')",1
-"('lt', 'TSLA')",16
 "('ltc', 'TSLA')",2
 "('ltcg', 'TSLA')",3
 "('ltcl', 'TSLA')",3
@@ -45898,7 +45890,6 @@
 "('fxi', 'AMZN')",14
 "('fy', 'AMZN')",12
 "('fyi', 'AMZN')",16
-"('g', 'AMZN')",15
 "('gaap', 'AMZN')",14
 "('gadgets', 'AMZN')",7
 "('gain', 'AMZN')",16
@@ -46286,7 +46277,6 @@
 "('gsr', 'AMZN')",3
 "('gsuite', 'AMZN')",2
 "('gsx', 'AMZN')",15
-"('gt', 'AMZN')",16
 "('gtaiv', 'AMZN')",4
 "('gtfo', 'AMZN')",14
 "('gtm', 'AMZN')",4
@@ -47720,7 +47710,6 @@
 "('kung', 'AMZN')",9
 "('kv', 'AMZN')",3
 "('kylie', 'AMZN')",6
-"('l', 'AMZN')",16
 "('l-shaped', 'AMZN')",5
 "('l3harris', 'AMZN')",5
 "('la', 'AMZN')",15
@@ -48185,7 +48174,6 @@
 "('lpl', 'AMZN')",15
 "('lqd', 'AMZN')",14
 "('lrcx', 'AMZN')",13
-"('lt', 'AMZN')",16
 "('ltd', 'AMZN')",14
 "('lte', 'AMZN')",5
 "('ltrpa', 'AMZN')",10
@@ -61352,7 +61340,6 @@
 "('fxx', 'AAPL')",1
 "('fy', 'AAPL')",12
 "('fyi', 'AAPL')",16
-"('g', 'AAPL')",15
 "('gaap', 'AAPL')",14
 "('gach', 'AAPL')",3
 "('gadgets', 'AAPL')",7
@@ -61785,7 +61772,6 @@
 "('gsk', 'AAPL')",12
 "('gsm', 'AAPL')",6
 "('gsx', 'AAPL')",15
-"('gt', 'AAPL')",16
 "('gtaiv', 'AAPL')",4
 "('gtfo', 'AAPL')",14
 "('gtm', 'AAPL')",4
@@ -63352,7 +63338,6 @@
 "('kuo', 'AAPL')",1
 "('kyle', 'AAPL')",11
 "('kylie', 'AAPL')",6
-"('l', 'AAPL')",16
 "('la', 'AAPL')",15
 "('la-z-boy', 'AAPL')",6
 "('lab', 'AAPL')",14
@@ -63871,7 +63856,6 @@
 "('lr', 'AAPL')",7
 "('lrcx', 'AAPL')",13
 "('lse', 'AAPL')",6
-"('lt', 'AAPL')",16
 "('ltd', 'AAPL')",14
 "('ltrpa', 'AAPL')",10
 "('lub', 'AAPL')",6
@@ -82661,7 +82645,6 @@
 "('fyrefest', 'SPY')",1
 "('fysa', 'SPY')",2
 "('fükk', 'SPY')",1
-"('g', 'SPY')",15
 "(""g'day"", 'SPY')",2
 "('g-20′s', 'SPY')",2
 "('g-bet', 'SPY')",1
@@ -83515,7 +83498,6 @@
 "('gsk', 'SPY')",12
 "('gsr', 'SPY')",3
 "('gsx', 'SPY')",15
-"('gt', 'SPY')",16
 "('gta', 'SPY')",7
 "('gtaiv', 'SPY')",4
 "('gtc', 'SPY')",6
@@ -86519,7 +86501,6 @@
 "('ky', 'SPY')",4
 "('kyle', 'SPY')",11
 "('kyodo', 'SPY')",2
-"('l', 'SPY')",16
 "('l-cov', 'SPY')",1
 "('l-fap', 'SPY')",2
 "('l-shaped', 'SPY')",5
@@ -87413,7 +87394,6 @@
 "('lsd', 'SPY')",6
 "('lse', 'SPY')",6
 "('lst', 'SPY')",1
-"('lt', 'SPY')",16
 "('ltcg', 'SPY')",3
 "('ltcl', 'SPY')",3
 "('ltd', 'SPY')",14
